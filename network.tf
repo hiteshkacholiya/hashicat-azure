@@ -18,8 +18,3 @@ module "network" {
     costcenter  = "it"
   }
 }
-
-module "network" {
-  
-  # insert required variables here
-}

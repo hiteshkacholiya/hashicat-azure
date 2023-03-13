@@ -75,5 +75,5 @@ variable "placeholder" {
 }
 
 variable "resource_group_name" {
-  default = "myresourcegroup"
+  default = "hk-chip-workshop"
 }
